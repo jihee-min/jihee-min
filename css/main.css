@@ -1,0 +1,33 @@
+
+section .box {
+  width: 87%;
+  text-align: center;
+  font-size: 14px;
+  font-weight: bold;
+  padding: 15px;
+  margin: 15px;
+  border: 1px solid #000000;
+}
+section .pic_wrap{
+  width: 92.5%;
+  float: left;
+  position: sticky;
+}
+section .pic {
+  width: 29.3%;
+  float:left;
+  text-align: center;
+  padding: 10px;
+  margin-left: 15px;
+  border: 1px solid #000000;
+}
+
+section .text {
+  width: 87%;
+  float: left;
+  text-align: left;
+  font-size: 14px;
+  padding: 15px;
+  margin: 15px;
+  border: 1px solid #000000;
+}

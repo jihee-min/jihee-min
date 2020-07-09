@@ -1,0 +1,45 @@
+section#right{
+  width:75%;
+  float: left;
+  margin: 20px 20px 0 23%;
+  height: 100%;
+  display: table;
+  vertical-align: top;
+}
+section #top_menu{
+  width: 100%;
+  margin: 0;
+  text-align: center;
+  border-bottom: 1px solid #000000;
+}
+section #top_menu li{
+  font-size: 14px;
+  display: inline;
+  font-weight: bold;
+  margin-right: 10px;
+}
+section .box {
+  text-align: center;
+  font-size: 14px;
+  font-weight: bold;
+  padding: 15px;
+  margin: 15px;
+  border: 1px solid #000000;
+}
+section .pic img{
+  margin: 0;
+  padding: 0;
+}
+section .pic {
+  text-align: center;
+  padding: 15px;
+  margin: 15px;
+  border: 1px solid #000000;
+}
+section .text {
+  text-align: left;
+  font-size: 14px;
+  padding: 15px;
+  margin: 15px;
+  border: 1px solid #000000;
+}
